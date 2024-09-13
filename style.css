@@ -1,15 +1,32 @@
+/*
 .playwrite-za-wblogofont {
-    font-family: "Playwrite ZA", cursive;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 90px;
-  }
+  font-family: "Playwrite ZA", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 90px;
+}
 
-  .playwrite-ar-wblogofont {
-    font-family: "Playwrite AR", cursive;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 90px;
-  }
+.playwrite-ar-wblogofont {
+  font-family: "Playwrite AR", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 90px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+body {
+  /* background-image: url("assets/images/back_fullcolor_1024x599.png"); 
+  background-color: #c9d3f7;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  /* background-size: cover; 
+ } */
