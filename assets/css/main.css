@@ -588,12 +588,12 @@ h6 {
   }
 
   .navmenu .listing-dropdown ul ul {
-    background-color: rgba(33, 37, 41, 0.1);
+    background-color: rgba(252, 252, 252, 0.859);
   }
 
   .navmenu .listing-dropdown>.dropdown-active {
     display: block;
-    background-color: rgba(33, 37, 41, 0.03);
+    background-color: rgba(252, 252, 252, 0.859);
   }
 }
 
